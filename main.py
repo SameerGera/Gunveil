@@ -22,7 +22,7 @@ import pygame
 # Global tuning / constants
 # -----------------------------
 # Default target: 1080p (toggle fullscreen with F11)
-WIDTH, HEIGHT = 1920, 1080
+WIDTH, HEIGHT = 1920, 1200
 FPS = 60
 
 WORLD_MARGIN = 40  # outer wall thickness / arena margin
@@ -46,7 +46,7 @@ PERFECT_WINDOW_END = 0.32
 
 ENEMY_RADIUS = 14
 ENEMY_SPEED = 110.0
-ENEMY_HP = 3
+ENEMY_HP = 2
 
 BOSS_RADIUS = 30
 BOSS_HP = 120
